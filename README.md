@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **freelancer on multiple projects**
 
-- 🌱 I’m currently learning **ThreeJS, WebGL, Angular**
+- 🌱 I’m currently learning **GLSL, Flutter**
 
 - 👨‍💻 All of my projects are available at [landresgraphics.vercel.app](landresgraphics.vercel.app)
 
